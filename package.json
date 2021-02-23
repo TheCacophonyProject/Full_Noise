@@ -21,7 +21,7 @@
     "express-validator": "^5.3.1",
     "express-winston": "^2.5.0",
     "extend": "^3.0.2",
-    "fast-csv": "^3.7.0",
+    "fast-csv": "^4.3.6",
     "fs": "0.0.2",
     "fstream": "^1.0.12",
     "install": "^0.12.2",
